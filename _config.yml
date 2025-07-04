@@ -2,7 +2,7 @@ title: S.W.O.R.D. Team Blog
 tagline: "تیم هوافضای دانشجویی"
 description: "پروژه‌ها، اعضا و مستندات ما"
 url: "https://SWORDTEAMUUT.github.io"  
-baseurl: "/sword-blog
+baseurl: "/repo-name"
 
 remote_theme: cotes2020/jekyll-theme-chirpy
 
